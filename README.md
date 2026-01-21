@@ -15,8 +15,11 @@ This is an **ATM application** that combines a browser-based user interface with
 ## My Contribution  
 I worked on the REST API together with another team member. The API was used to connect the browser-based user interface with the backend and to support the core features of the ATM simulation.
 
+### Project Documentation
+I was primarily responsible for the project documentation and project poster, working together with another team member.
+
 ## What I Learned
-This project helped me understand how software projects are built in practice and how web applications can be connected to physical hardware. I gained hands-on experience working with RFID readers, testing hardware-dependent features, and using REST APIs to pass data between the user interface and the backend.
+This project helped me understand how software projects are built in practice and how web applications can be connected to physical hardware. I gained hands-on experience working with RFID readers and implementing REST APIs to pass data between the user interface and the backend.
 
 ## Demo Video
 ▶️ https://www.youtube.com/watch?v=L0B_aV7m6qA&t=17s
